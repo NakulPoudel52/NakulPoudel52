@@ -1,22 +1,12 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Assessing Learning-Based Reconstructed Liver Surfaces from Partial Point Clouds for Improving Pre- to Intra-Operative 3D\u20133D Registration<br />Daejeon Convention Center; Daejeon, South Korea",
+    36.3497007,
+    127.3849016
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
-  ],
-  [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Toward Patient-Specific Partial Point Cloud-to-Surface Completion for Pre- to IntraOperative Registration in Image-Guided Liver Interventions<br />MIUA, University of Leeds; Leeds, UK",
+    53.7974185,
+    -1.5437941
   ]
 ];
