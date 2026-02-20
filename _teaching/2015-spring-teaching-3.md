@@ -1,15 +1,15 @@
 ---
-title: "IMGS 389: Machine Learning for Image Analysis"
+title: "IMGS 617: Image Processing and Discrete Fourier Methods"
 collection: teaching assistant
-type: "Undergraduate course"
+type: "Graduate course"
 # permalink: /teaching/2014-spring-teaching-1
 venue: "Rochester Institute of Technology, Chester F. Carlson Center for Imaging Science"
-date: 2024-01-15
+date: 2025-08-25
 location: "Rochester, NY"
 
 ---
-Graded assignments and examinations; conducted weekly office hours to support student learning.
-
+Supported course instruction by grading homework and projects, assisting with course material preparation, and
+mentoring students during office hours.
 
 <!-- Heading 1
 ======

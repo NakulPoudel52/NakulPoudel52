@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
+title: "IMGS 111: Imaging Science Fundamentals"
+collection: teaching assistant
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Rochester Institute of Technology, Chester F. Carlson Center for Imaging Science"
+date: 2023-08-25
+location: "Rochester, NY"
+# subject: "IMGS 111: Imaging Science Fundamentals (Dr. Anthony Vodacek)"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Assisted with laboratory sessions, graded coursework, and provided academic support to students.
 
-Heading 1
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->
