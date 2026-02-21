@@ -32,7 +32,7 @@ has been published in Wiley's IET Healthcare Technology Letters journal.
 1. [Oct 2024] Our paper titled “Evaluation of Intraoperative Patient-Specific Methods for Point Cloud Completion for Minimally Invasive Liver Interventions” has been accepted to SPIE Medical Imaging 2025.
 1. [May 2024] Appointed as Treasurer of the [Nepalese Student Association](https://campusgroups.rit.edu/nsarit/home/) at the Rochester Institute of Technology.
 1. [Aug 2023] Started my PhD in Imaging Science at the Rochester Institute of Technology, Rochester, United States.
-1. [July 2022] Graduated with a Bachelor’s degree in Computer Engineering from Sagarmatha Engineering College, affiliated with Tribhuvan University, Nepal.
+1. [July 2022] Graduated with a Bachelor’s degree in Computer Engineering from [Sagarmatha Engineering College](https://sagarmatha.edu.np), affiliated with Tribhuvan University, Nepal.
 1. [April 2022] [Selected](https://www.facebook.com/share/p/17GnQRyPzD/) for the Erasmus+ program to study a semester at UPCT Universidad Politécnica de Cartagena.   
 1. [June 2020] Our team “Matrix” secured [First Runner-Up](https://www.facebook.com/story.php?story_fbid=3022269811172201&id=100063642486901) position in the Hack for Good Online Hackathon organized by Sagarmatha Engineering College, Kathmandu, Nepal.
 
