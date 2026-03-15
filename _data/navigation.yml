@@ -9,10 +9,10 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
@@ -24,7 +24,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: 'https://nakulpoudel52.github.io/NakulPoudel52/files/Nakul_CV_web.pdf'
+    url: 'https://nakulpoudel52.github.io/files/Nakul_CV_web.pdf'
     
   # - title: "CV"
   #   url: /cv-json/
