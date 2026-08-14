@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Nakul Poudel, and I am a third-year PhD student at the [Chester F. Carlson Center for Imaging Science](https://www.rit.edu/science/chester-f-carlson-center-imaging-science) at the Rochester Institute of Technology (RIT), Rochester, New York, USA. I conduct my research under the supervision of [Dr. Cristian A. Linte](https://www.rit.edu/directory/calbme-cristian-linte) in the Biomedical Modeling, Visualization, and Image-Guided Navigation (BiMVisGN) Lab. My research focuses on deep learning methods for medical imaging applications.
+My name is Nakul Poudel, and I am a fourth-year PhD student (expected graduation July 2027) at the [Chester F. Carlson Center for Imaging Science](https://www.rit.edu/science/chester-f-carlson-center-imaging-science) at the Rochester Institute of Technology (RIT), Rochester, New York, USA. I conduct my research under the supervision of [Dr. Cristian A. Linte](https://www.rit.edu/directory/calbme-cristian-linte) in the Biomedical Modeling, Visualization, and Image-Guided Navigation (BiMVisGN) Lab. My research focuses on deep learning methods for medical imaging applications.
 
 Prior to starting my PhD, I obtained my Bachelor’s degree in Computer Engineering from [Sagarmatha Engineering College](https://sagarmatha.edu.np/), affiliated with Tribhuvan University, Nepal. Outside of my research, I enjoy traveling, exploring new places, hiking, and experiencing different cultures.
 
@@ -23,6 +23,8 @@ Currently, I am exploring surgical vision foundation models designed to learn sh
 
 News
 ======
+1. [Aug 7, 2026] Successfully completed my three-month internship at [NVIDIA](https://www.nvidia.com/) as a Camera Software and Image Quality Intern.
+1. [Jun 4, 2026] Our paper, “Toward Mask Annotation-Free Surgical Instrument Segmentation from Endoscopic Images Using Text-Prompted Segment Anything Model 3 (SAM3),” has been accepted for publication at the 30th [Conference on Medical Image Understanding and Analysis (MIUA)](https://www.ucd.ie/medicine/miua2026/), held in Dublin, Ireland.
 1. [Apr 2026] Our paper "Evaluating Large Vision–language Models for Surgical Tool Detection” has been accepted for presentation at the 48th [Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)](https://embc.embs.org/2026/) held in Toronto, Canada.
 1. [Dec 2025] Our paper "Assessing Learning-Based Reconstructed Liver Surfaces from Partial Point Clouds for Improving Pre- to Intra-Operative 3D–3D Registration”
 has been published in Wiley's IET Healthcare Technology Letters journal.

@@ -1,1 +1,1 @@
-I am Nakul Poudel, a third-year Ph.D. candidate in Imaging Science at the Rochester Institute of Technology. My research centers on deep learning approaches for medical imaging, with an emphasis on developing robust and clinically relevant solutions.
+I am Nakul Poudel, a fourth-year Ph.D. candidate in Imaging Science at the Rochester Institute of Technology, expecting to graduate in summer 2027. My research centers on deep learning approaches for medical imaging, with an emphasis on developing robust and clinically relevant solutions.
